@@ -32,4 +32,3 @@ Car4You is a data analysis project conducted in a Jupyter Notebook environment. 
 ## Future Enhancements
 This project can be expanded in various ways, such as building predictive models for car prices, implementing a user interface for data input, or deploying the project as a web application. Additionally, incorporating machine learning algorithms for more advanced analysis can further enhance the project's capabilities.
 
-Car4You demonstrates your proficiency in data analysis, manipulation, and visualization, making it a valuable addition to your portfolio.
